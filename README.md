@@ -19,8 +19,8 @@ the order of item in search result list.
 {"results":[{"id":id, "name":"name", "age": age, "address": "address", "team":
 "team"}, ....]}
 
-● Solution is installable by "npm install" and run by "npm start". All dependencies for
+- Solution is installable by "npm install" and run by "npm start". All dependencies for
 solution should be installed and started via npm.
-● Accepted programming languages: PHP, Node.js, React, Backbone, Vue
-● Consider using containerization/virtualization technologies (like docker or vagrant) to
+- Accepted programming languages: PHP, Node.js, React, Backbone, Vue
+- Consider using containerization/virtualization technologies (like docker or vagrant) to
 ease testing of the service API
