@@ -1,4 +1,4 @@
-# pipedrivetest_frontend
+# CSV File importer in React
 
 Implement csv import with the possibility to search from imported data.
 ● Import form displays real-time progress.
